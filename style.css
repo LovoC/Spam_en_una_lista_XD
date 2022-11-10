@@ -1,0 +1,18 @@
+#submit_button  {
+
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+    color: cadetblue;
+}
+
+input   {
+
+	margin: 10px;
+    border-radius: 10px;
+}
+
+body {
+
+    background: linear-gradient(90deg, rgba(252,255,93,1) 0%, rgba(99,254,255,1) 100%);
+    font-family: 'Segoe UI';
+}
